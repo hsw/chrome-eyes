@@ -4,7 +4,7 @@
     "name": "Eyes",
     "short_name": "Eyes",
     "description": "Mouse tracking Eyes",
-    "version": "0.2",
+    "version": "0.3",
     "icons": {
         "16": "i/icon16.png",
         "48": "i/icon48.png",
