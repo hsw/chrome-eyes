@@ -4,14 +4,14 @@
     "name": "Eyes",
     "short_name": "Eyes",
     "description": "Mouse tracking Eyes",
-    "version": "0.3",
+    "version": "0.5",
     "icons": {
         "16": "i/icon16.png",
         "48": "i/icon48.png",
         "128": "i/icon128.png"
     },
     "background": {
-        "persistent": true,
+        "persistent": false,
         "scripts": ["bg.js"]
     },
 
